@@ -23,7 +23,6 @@ Con ésta lógica, decimos que una secuencia de agrupadores está balanceada si 
 Dadas cadenas de agrupadores, determinar si cada secuencia de ellos está balanceada.
  Si una cadena de agrupadores está balanceada, imprimir SI en una nueva línea, de lo contrario, imprimir NO en una nueva línea.
 
-
 Entrada de datos:
 La primer línea contiene un solo entero, denotando el número de strings.
 Cada línea subsecuente, consiste en una sola cadena,
